@@ -1,0 +1,1 @@
+Es un simple proyecto de demonstración de Git y GitHub.
